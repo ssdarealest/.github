@@ -163,7 +163,8 @@ If you wanna support my work, please donate for me using these address:
   Contact through Discord: @ssdarealest
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+<img width="3506" height="960" alt="68747470733a2f2f63646e2e696d6763686573742e636f6d2f66696c65732f3665616537333338656232372e6a7067" src="https://github.com/user-attachments/assets/d1bfc761-8ceb-4d7a-b7bd-118c36bf38e2" />
+
 
 ---
 
