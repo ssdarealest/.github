@@ -13,6 +13,8 @@ You can call me Alyosha/Alisha, that's my short name.
 
 </div>
 
+![img](https://osekai.net/profiles/img/banner.svg?id=39278078)
+
 # About me
 
 Hello World! I'm Alexoy Vladimirov, a young & passonate developer from Vietnam, love to break things (i guess) and find out how it work. I love to build new things & ship it to the community as a OSS (open-source software), love to discuss with others & work with talent developers around me. At the age of 17, I've become fluent with a lot of well-known programming language such as C++, Java, React, etc. I've working as a frontend & backend developer for 4 years, and I would like to follow the path to become a professional developer!
