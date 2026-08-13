@@ -116,10 +116,10 @@ Currently no projects here due to I just moved from old account to this one. Ple
 
 ## osu! Stats
 
-My osu! Profile: https://osu.ppy.sh/u/ThomasSherby
+My osu! Profile: https://osu.ppy.sh/u/SsdaRealest
 
 <p align="center">
-  <img align="center" src="https://osu-sig.s23.moe/card?user=ThomasSherby&mode=std&lang=en&animation=true&hue=200" width="800">
+  <img align="center" src="https://osu-sig.s23.moe/card?user=SsdaRealest&mode=std&lang=en&animation=true&hue=200" width="800">
 </p>
 
 ## Blogpost & Research
