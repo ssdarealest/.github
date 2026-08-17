@@ -36,19 +36,7 @@ For more information, you can visit my Website or contact me on Discord.
 
 ## Projects
 
-Currently no projects here due to I just moved from old account to this one. Please hang tight!
-
-## Github Status
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssdarealest&count_private=true&theme=tokyonight&show_icons=true" height="150px" /> <br>
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ssdarealest&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
-<!-- <br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1to.github.io&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=chuyentinorz-landing-pages&theme=dark" />
-<br>
-!-->
-</p>
+Now building [NekoAI Project](https://nekoai.is-a.dev). Further information will be provided soon.
 
 ## Discord status
 ![status](https://api.statusbadges.me/badge/status/727497287777124414?style=for-the-badge)
@@ -58,12 +46,6 @@ Currently no projects here due to I just moved from old account to this one. Ple
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
-</p>
-
-## Listening to (Spotify)
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ki3izwarkotf2krqm2cepjadka&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="1200" height="auto">
 </p>
 
 ## Favourite albums:
@@ -129,10 +111,10 @@ My osu! Profile: https://osu.ppy.sh/u/SsdaRealest
 ## Donate for me
 
 If you wanna support my work, please donate for me using these address:
-- BTC: `bc1q3x32c2dvwtymsk7fqfpwvdxdcth4vk9l8ztnz7`
-- ETH: `0x047B2f44d990357fa3Cd7a3F6Eba8Df7384E953d`
-- ETC: `0xcD537A3280A0E93e3505E7ce29139071e819cC9c`
-- USDT: `0x047B2f44d990357fa3Cd7a3F6Eba8Df7384E953d`
+- BTC: `bc1qkf065e0chgshtqnspkzrmlreaxxpd9vrxq25lh`
+- ETH: `0x8e0a8B126351AA7A1058Ee404202f7026c74859d`
+- ETC: `0x3346EaA3C2e71652029f28ce728cD3F24fDB3A3B`
+- USDT: `0x8e0a8B126351AA7A1058Ee404202f7026c74859d`
 
 ## Contact me through
 
