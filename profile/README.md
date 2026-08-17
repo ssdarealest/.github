@@ -111,10 +111,9 @@ My osu! Profile: https://osu.ppy.sh/u/SsdaRealest
 ## Donate for me
 
 If you wanna support my work, please donate for me using these address:
-- BTC: `bc1qkf065e0chgshtqnspkzrmlreaxxpd9vrxq25lh`
-- ETH: `0x8e0a8B126351AA7A1058Ee404202f7026c74859d`
-- ETC: `0x3346EaA3C2e71652029f28ce728cD3F24fDB3A3B`
-- USDT: `0x8e0a8B126351AA7A1058Ee404202f7026c74859d`
+- BTC: `bc1qgvaj966er735na8gszeqtg3h8gcywdt8kgt5t3`
+- ETH: `0xb2D4d15118EB026835B234D17F65Ff9946A30C04`
+- USDT: `0xb2D4d15118EB026835B234D17F65Ff9946A30C04`
 
 ## Contact me through
 
